@@ -7,7 +7,7 @@ form{
     padding:35px;
     height:35rem;
     width:30rem;
-    background:black;
+    background:rgba(51, 51, 51, 0.803);
     color:#fff;
     display:grid;
     grid-template-columns: 1fr;
@@ -16,10 +16,6 @@ form{
 .btn{
     background:#e50914; 
     color:white;
-}
-
-.btn:hover {
-    background: #ff6b6b;
 }
 .text{
     background:rgba(87, 87, 87, 0.899);
@@ -33,4 +29,3 @@ form{
         transition: 1s ease-out;
     }
 }
-
